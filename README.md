@@ -17,3 +17,5 @@
 ### Symbolに関しての命名規則は確認してから編集してください。
 [スライド資料](https://drive.google.com/open?id=1ou3-VKCXzVck0UHmamXUX0Q6yhSeGolDZJu-u3tXiVI)
 ※見てもわからない場合は「分からん！」と騒いでみんなに助けてもらいましょう。
+
+test
